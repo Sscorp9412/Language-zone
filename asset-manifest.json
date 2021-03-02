@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/language-zone/static/css/main.844a0a5d.chunk.css",
+    "main.js": "/language-zone/static/js/main.e351a72d.chunk.js",
+    "main.js.map": "/language-zone/static/js/main.e351a72d.chunk.js.map",
+    "runtime-main.js": "/language-zone/static/js/runtime-main.7417e825.js",
+    "runtime-main.js.map": "/language-zone/static/js/runtime-main.7417e825.js.map",
+    "static/css/2.658248ec.chunk.css": "/language-zone/static/css/2.658248ec.chunk.css",
+    "static/js/2.1492c381.chunk.js": "/language-zone/static/js/2.1492c381.chunk.js",
+    "static/js/2.1492c381.chunk.js.map": "/language-zone/static/js/2.1492c381.chunk.js.map",
+    "static/js/3.64b82571.chunk.js": "/language-zone/static/js/3.64b82571.chunk.js",
+    "static/js/3.64b82571.chunk.js.map": "/language-zone/static/js/3.64b82571.chunk.js.map",
+    "index.html": "/language-zone/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/language-zone/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.844a0a5d.chunk.css.map": "/language-zone/static/css/main.844a0a5d.chunk.css.map",
+    "static/js/2.1492c381.chunk.js.LICENSE.txt": "/language-zone/static/js/2.1492c381.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7417e825.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.1492c381.chunk.js",
+    "static/css/main.844a0a5d.chunk.css",
+    "static/js/main.e351a72d.chunk.js"
+  ]
+}
