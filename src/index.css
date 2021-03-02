@@ -1,4 +1,5 @@
 body {
+  background: #eeeeee;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +11,42 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+/* nav */
+.mynavbar {
+  width: 80%;
+  background-color: #689c34;
+  overflow: auto;
+}
+
+.mynavbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 21px;
+  font-family: sans-serif;
+  width: 20%; /*Four links of equal widths */
+  text-align: center;
+}
+
+.mynavbar a:hover {
+  background-color: #282424;
+  color: #fff;
+}
+
+.mynavbar a.active {
+  background-color: #282424;
+  color: #fff;
+}
+
+@media screen and (max-width: 500px) {
+  .mynavbar a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
 }
